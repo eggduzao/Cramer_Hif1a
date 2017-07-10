@@ -1,0 +1,3 @@
+name	type	file
+all_mm9_promoters	regions	/home/egg/Projects/Thorsten/Results/motif_match/input/all_mm9_promoters.bed
+all_mm9_open_chromatin	regions	/home/egg/Projects/Thorsten/Results/motif_match/input/all_mm9_open_chromatin.bed

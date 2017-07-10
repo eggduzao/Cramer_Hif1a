@@ -1,0 +1,3 @@
+name	type	file
+promoter	regions	/home/egg/Projects/Cramer/Results/motif_match/input/promoters.bed
+open_chromatin	regions	/home/egg/Projects/Cramer/Results/motif_match/input/open_chromatin.bed
